@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  doctorclinicapi:
+    image: ${DOCKER_REGISTRY-}doctorclinicapi
+    build:
+      context: .
+      dockerfile: DoctorClinicAPI/Dockerfile

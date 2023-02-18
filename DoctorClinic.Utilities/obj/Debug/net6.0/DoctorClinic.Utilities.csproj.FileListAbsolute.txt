@@ -1,0 +1,12 @@
+E:\DoctorClinic\DoctorClinicAPI\DoctorClinic.Utilities\bin\Debug\net6.0\DoctorClinic.Utilities.deps.json
+E:\DoctorClinic\DoctorClinicAPI\DoctorClinic.Utilities\bin\Debug\net6.0\DoctorClinic.Utilities.dll
+E:\DoctorClinic\DoctorClinicAPI\DoctorClinic.Utilities\bin\Debug\net6.0\DoctorClinic.Utilities.pdb
+E:\DoctorClinic\DoctorClinicAPI\DoctorClinic.Utilities\obj\Debug\net6.0\DoctorClinic.Utilities.csproj.AssemblyReference.cache
+E:\DoctorClinic\DoctorClinicAPI\DoctorClinic.Utilities\obj\Debug\net6.0\DoctorClinic.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\DoctorClinic\DoctorClinicAPI\DoctorClinic.Utilities\obj\Debug\net6.0\DoctorClinic.Utilities.AssemblyInfoInputs.cache
+E:\DoctorClinic\DoctorClinicAPI\DoctorClinic.Utilities\obj\Debug\net6.0\DoctorClinic.Utilities.AssemblyInfo.cs
+E:\DoctorClinic\DoctorClinicAPI\DoctorClinic.Utilities\obj\Debug\net6.0\DoctorClinic.Utilities.csproj.CoreCompileInputs.cache
+E:\DoctorClinic\DoctorClinicAPI\DoctorClinic.Utilities\obj\Debug\net6.0\DoctorClinic.Utilities.dll
+E:\DoctorClinic\DoctorClinicAPI\DoctorClinic.Utilities\obj\Debug\net6.0\refint\DoctorClinic.Utilities.dll
+E:\DoctorClinic\DoctorClinicAPI\DoctorClinic.Utilities\obj\Debug\net6.0\DoctorClinic.Utilities.pdb
+E:\DoctorClinic\DoctorClinicAPI\DoctorClinic.Utilities\obj\Debug\net6.0\ref\DoctorClinic.Utilities.dll
